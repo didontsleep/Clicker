@@ -6,7 +6,8 @@
 
 .burger-block {
     display: none;
-z-index: 10000;
+    overflow: hidden;
+z-index: 1000;
     position: fixed;
     max-width: 780px;
     width: 100%;

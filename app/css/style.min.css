@@ -20,7 +20,6 @@ body {
   font-family: 'Lato', sans-serif;
   font-weight: 400;
   font-size: 12px;
-  overflow: hidden;
 }
 
 a {
@@ -166,7 +165,8 @@ h6 {
 
 .burger-block {
   display: none;
-  z-index: 10000;
+  overflow: hidden;
+  z-index: 1000;
   position: fixed;
   max-width: 780px;
   width: 100%;
