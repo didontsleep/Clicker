@@ -988,6 +988,12 @@ h6 {
 }
 
 @media (max-width: 499px) {
+  .consultation__ipt {
+    margin-right: 0;
+    max-width: 300px;
+    width: 100%;
+    height: 50px;
+  }
   .advert__title {
     font-size: 40px;
   }
