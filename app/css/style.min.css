@@ -165,6 +165,7 @@ h6 {
 
 .burger-block {
   display: none;
+  z-index: 10000;
   position: fixed;
   max-width: 780px;
   width: 100%;
