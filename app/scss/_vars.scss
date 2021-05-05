@@ -1,0 +1,21 @@
+$w:rgba(255,255,255,0.87);
+$b:rgba(0, 0, 0, 0.87);
+@mixin muller700 {
+    font-weight: 700;
+    font-family: "Muller";
+}
+@mixin karla400 {
+    font-weight: 400;
+    font-family: 'Karla', sans-serif;
+}
+
+@mixin karla700 {
+    font-weight: 700;
+    font-family: 'Karla', sans-serif;
+}
+
+@mixin bg-pos {
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}

@@ -1,0 +1,14 @@
+// @font-face {
+//     font-weight: 400;
+//     font-family: "Muller";
+//     font-style: normal;
+//     src: url(2DF5B4_F_0.woff2) format("woff2"),url(2DF5B4_F_0.woff) format("woff")
+//   }
+@font-face {
+    font-family: "Muller";
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/MullerBold.ttf') format("ttf"),
+        url('../fonts/MullerBold.woff')format('woff'),
+        url('../fonts/MullerBold.woff2')format('woff2');
+}
